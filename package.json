@@ -1,0 +1,15 @@
+{
+  "name": "node-day-2",
+  "version": "1.0.0",
+  "description": "Hall booking API",
+  "main": "Room.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Room.js"
+  },
+  "author": "Open",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
